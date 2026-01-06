@@ -14,3 +14,6 @@ weightInGms	int,
 outOfStock	varchar(100),
 quantity int
 )
+select count(*) from netflix;
+select * from netflix
+limit 10 ;
