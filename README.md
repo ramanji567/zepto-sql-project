@@ -1,1 +1,1 @@
-# zepto  category different vegetables and mrp and discount percent and discounted selling price and weightin gms  and outof stocks data analsis with sql
+# zepto  categories  to selling prices online data analysis with sql
